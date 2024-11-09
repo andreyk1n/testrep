@@ -1,4 +1,12 @@
 @use 'header';
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    padding: 20px 0;
+}
 body {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-size: 18px;
